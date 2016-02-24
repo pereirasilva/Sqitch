@@ -4,3 +4,4 @@
 
 schema_escola 2016-02-24T14:10:42Z pereira <pereira@gmail.com> # Add schema for escola
 aluno 2016-02-24T14:34:19Z pereira <pereira@gmail.com> # Cria tabela de alunos
+matricula [aluno schema_escola] 2016-02-24T14:54:15Z pereira <pereira@gmail.com> # Criar tabela de matricula dos alunos
