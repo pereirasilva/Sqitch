@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=escola
+%uri=https://github.com/pereirasilva/Sqitch.git
+
+schema_escola 2016-02-24T14:10:42Z pereira <pereira@gmail.com> # Add schema for escola
